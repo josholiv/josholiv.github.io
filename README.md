@@ -1,10 +1,10 @@
-# Lab Manager
+# Title
 
 ### Education
 Psychology, BS
 
 ### Work Experience
-Lab Manager @ FNIM
+Job @ Place
 – big impact project 1
 – big impact project 2
 
