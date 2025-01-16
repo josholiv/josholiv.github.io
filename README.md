@@ -1,7 +1,7 @@
 # Title
 
 ### Education
-Psychology, BS
+
 
 ### Work Experience
 Job @ Place
